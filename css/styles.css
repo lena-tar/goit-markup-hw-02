@@ -1,0 +1,126 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.page-header {
+}
+.header-nav {
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-logo .logo-part {
+  color: #2e2f42;
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.address {
+  font-style: normal;
+}
+.address-list {
+}
+.address-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.nav-link:hover,
+.nav-link:focus,
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+.main {
+}
+.title {
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.btn-order {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.title-sect,
+.page-footer {
+  background-color: #2e2f42;
+}
+.philo-sect {
+}
+.philo-list {
+}
+.philo-item {
+}
+.philo-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+
+  color: #2e2f42;
+}
+.philo-text {
+  line-height: 1.5;
+}
+.team-sect {
+  background-color: #f4f4fd;
+}
+.team-title {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.team-list {
+}
+.team-item {
+  background-color: #fff;
+}
+.team-img {
+}
+.team-name {
+}
+.team-text {
+}
+.page-footer {
+}
+.logo {
+}
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+.footer-text {
+}
