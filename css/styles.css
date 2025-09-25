@@ -91,11 +91,12 @@ a {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .philo-text {
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /* #endregion */
 /* #region Team Section */
@@ -104,7 +105,7 @@ a {
 }
 .team-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -117,8 +118,17 @@ a {
 .team-img {
 }
 .team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 .team-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 /* #endregion */
 /* #region Footer */
