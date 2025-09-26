@@ -64,7 +64,7 @@ a {
 }
 .title {
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -78,6 +78,10 @@ a {
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
+}
+.btn-order:hover,
+.btn-order:focus {
+  background-color: #404bbf;
 }
 /* #endregion */
 /* #region Philo Section */
@@ -109,6 +113,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list {
 }
@@ -140,6 +145,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portf-list {
 }
@@ -168,24 +174,12 @@ a {
   color: #f4f4fd;
 }
 .footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
 .title-sect,
 .page-footer {
   background-color: #2e2f42;
-}
-/* #endregion */
-/* #region Hidden */
-.visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
 }
 /* #endregion */
