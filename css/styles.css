@@ -3,6 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
+  width: 1440px;
 }
 ul,
 ol {
@@ -86,10 +87,13 @@ a {
 /* #endregion */
 /* #region Philo Section */
 .philo-sect {
+  width: 1128px;
 }
 .philo-list {
+  display: inline-flex;
 }
 .philo-item {
+  margin-right: 24px;
 }
 .philo-title {
   font-weight: 500;
@@ -116,6 +120,7 @@ a {
   text-transform: capitalize;
 }
 .team-list {
+  display: inline-flex;
 }
 .team-item {
   background-color: #fff;
